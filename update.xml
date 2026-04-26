@@ -3,7 +3,7 @@
   <app appid='ahddbljgpnghldcfkbbcjianpcpmiadn'>
     <updatecheck status='ok'>
       <urls>
-        <url codebase='file:///C:/BraveExtensions/'/>
+        <url codebase='https://github.com/Maaliselmi/nsw/raw/refs/heads/main/nsw.crx'/>
       </urls>
       <manifest version='3.0.0'>
         <packages>
