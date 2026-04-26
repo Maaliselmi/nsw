@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='ahddbljgpnghldcfkbbcjianpcpmiadn'>
+    <updatecheck status='ok'>
+      <urls>
+        <url codebase='file:///C:/BraveExtensions/'/>
+      </urls>
+      <manifest version='3.0.0'>
+        <packages>
+          <package name='nsw.crx' hash_sha256='' size='0' required='true'/>
+        </packages>
+      </manifest>
+    </updatecheck>
+  </app>
+</gupdate>
