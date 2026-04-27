@@ -1,6 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="ahddbljgpnghldcfkbbcjianpcpmiadn">
-    <updatecheck codebase="https://raw.githubusercontent.com/Maaliselmi/nsw/main/nsw.crx" version="3.0.0" />
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='ahddbljgpnghldcfkbbcjianpcpmiadn'>
+    <updatecheck status='ok'>
+      <urls>
+        <url codebase='https://github.com/Maaliselmi/nsw/raw/refs/heads/main/'/>
+      </urls>
+      <manifest version='3.0.0'>
+        <packages>
+          <package name='nsw.crx'
+                   hash_sha256='e85b1b4f16d741d191b40ce372444b96bf8e0afe5621553d9340f3f5b308f897'
+                   size='3721'
+                   required='true'/>
+        </packages>
+      </manifest>
+    </updatecheck>
   </app>
 </gupdate>
